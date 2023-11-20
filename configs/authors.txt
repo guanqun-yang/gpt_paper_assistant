@@ -7,3 +7,26 @@ Christopher D. Manning, 144783904
 Chris Potts, 1741530
 Diyi Yang, 2022168
 Monica Lam, 39682108
+Danqi Chen, 50536468
+Alexander M. Rush, 2531268
+John X. Morris, 153769695
+Sewon Min, 48872685
+Ximing Lu, 50085131
+Sam Bowman, 1799822
+Marco Tulio Ribeiro, 78846919
+Tongshuang Sherry Wu, 35232494
+Kai-Wei Chang, 2782886
+Nanyun Peng, 3157053
+William Yang Wang, 1682479
+Mohit Iyyer, 2136562
+Thomas Wolf, 50335211
+Yixuan Li, 1527103472
+Douwe Kiela, 1743722
+Jie Jessie Ren, 92095972
+Jason Wei, 144026731
+Eric Wallace, 145217343
+Nicholas Carlini, 2483738
+Colin Raffel, 2402716
+Chelsea Finn, 46881670
+Wei Xu, 145738410
+Huan Sun, 11121990
