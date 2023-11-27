@@ -35,9 +35,14 @@ def render_paper(paper_entry: dict, idx: int) -> str:
 
 
 def render_title_and_author(paper_entry: dict, idx: int) -> str:
+    # get the arxiv id
+    arxiv_id = paper_entry["arxiv_id"]
+    # get the arxiv url
+    arxiv_url = f"https://arxiv.org/abs/{arxiv_id}"
+
     title = paper_entry["title"]
     authors = paper_entry["authors"]
-    paper_string = f"{idx}. [{title}](#link{idx})\n"
+    paper_string = f"{idx}. [{title}]({arxiv_url})\n"
     paper_string += f'**Authors:** {", ".join(authors)}\n'
     return paper_string
 
